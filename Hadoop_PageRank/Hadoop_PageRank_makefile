@@ -1,0 +1,2 @@
+hadoop com.sun.tools.javac.Main org/apache/hadoop/examples/pagerank/HadoopPR.java
+jar cf /home/ubuntu/pr.jar org/apache/hadoop/examples/**/*.class
